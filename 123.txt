@@ -1,0 +1,69 @@
+{
+        
+    "a": {
+        "android":[{
+            "version":"1.0.60",
+            "appApiDomain": "vipapp1.top,vippay4.hk",
+            "dataCenterDomain": "haoxuanor.com"
+        },{
+            "version":"4.1.60",
+            "appApiDomain": "vipapp2.top,vippay5.hk",
+            "dataCenterDomain": "haoxuanor.com"
+        },{
+            "version":"",
+            "appApiDomain": "zhenxinzhubao.cn,aiakshare.com",
+            "dataCenterDomain": "haoxuanor.com"
+        }],
+        "ios":[{
+            "version":"",
+            "appApiDomain": "vipapp.top,vippay.hk",
+            "dataCenterDomain": "haoxuanor.com"
+        }]
+    },
+    "b": {
+            "com.rtiiw" :[{
+                "version": "1.0.60",
+                "link": "https://www.baidu.com",
+                "updateType": "solicit"
+            }, {
+                "version": "1.0.62",
+                "link": "https://www.baidu1.com",
+                "updateType": "solicit"
+            }, {
+                "version": "",
+                "link": "https://res-wh.haoxuanor.com/apk/download",
+                "updateType": "solicit"
+            }],
+            "com.cns.s2" :[{
+                "version":  "1.0.60",
+                "link": "https://www.baidu.com",
+                "updateType": "solicit"
+            }, {
+                "version": "1.0.62",
+                "link": "https://www.baidu.com",
+                "updateType": "solicit"
+            }]
+        },
+    "c": {
+            "com.cns.ios1": [{
+                "version": "1.0.60",
+                "link": "appstore id",
+                "updateType": "solicit"
+            }, {
+                "version":  "1.0.62",
+                "link": "https://www.baidu.com",
+                "updateType": "solicit"
+            }],
+            "com.cns.ios2": [{
+                "version": "1.0.60",
+                "link": "https://www.baidu.com",
+                "updateType": "solicit"
+            }, {
+                "version": "1.0.62",
+                "link": "https://www.baidu.com",
+                "updateType": "solicit"
+            }]
+        },
+    "d": [],
+    "e": 1
+}
