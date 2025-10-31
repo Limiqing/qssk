@@ -1,0 +1,72 @@
+{        
+    "a": {
+        "android":[{
+            "version":"1.0.60",
+            "appApiDomain": "vipapp1.top,vippay4.hk",
+            "dataCenterDomain": "aiakshare3.com"
+        },{
+            "version":"1.0.1",
+            "appApiDomain": "vipapp2.top,vippay5.hk",
+            "dataCenterDomain": "aiakshare1.com"
+        },{
+            "version":"",
+            "appApiDomain": "zhenxinzhubao.cn,aiakshare.com",
+            "dataCenterDomain": "aiakshare.com"
+        }],
+        "ios":[{
+            "version":"",
+            "appApiDomain": "ioszhenxinzhubao.cn,aiakshare.com",
+            "dataCenterDomain": "ios.aiakshare.com"
+        }]
+    },
+    "b": {
+            "com.rtiiw.test" :[{
+                "version": "1.0.0",
+                "link": "https://99e37818f28122e3502959d451aebd10.dlied1.cdntips.net/dldir1v6.qq.com/weixin/android/weixin8064android2940_0x28004033_arm64_1.apk",
+                "updateType": "solicit"
+            }, {
+                "version": "1.0.62",
+                "link": "https://res-ft.haoxuanor.com/download/fortune-securities.apk",
+                "updateType": "solicit"
+            }, {
+                "version": "",
+                "link": "https://dynamic.12306.cn/otn/appdownload/12306v5.9.4.5.apk",
+                "updateType": "solicit"
+            }],
+            "com.rtiiw.test1" :[{
+                "version":  "1.0.60",
+                "link": "https://www.baidu.com",
+                "updateType": "solicit"
+            }, {
+                "version": "1.0.0",
+                "link": "https://dynamic.12306.cn/otn/appdownload/12306v5.9.4.5.apk",
+                "updateType": "solicit"
+            }, {
+                "version": "",
+                "link": "https://packagebssdlbig.tx.kugou.com/202510271659/28d8797b9034d0e1c5ccd90f80459dee/Android/KugouPlayer/20359/KugouPlayer_201_V20.3.5_arm64.apk",
+                "updateType": "solicit"
+            }]
+        },
+    "c": {
+            "com.rtiiw.test1": [{
+                "version": "1.0.60",
+                "link": "https://apps.apple.com/cn/app/%E4%B8%AD%E5%9B%BD%E8%B4%A2%E5%AF%8C-%E5%85%A8%E7%90%83%E8%B4%A2%E7%BB%8F%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF/id1370729250",
+                "updateType": "solicit"
+            }, {
+                "version":  "1.0.62",
+                "link": "https://apps.apple.com/cn/app/%E8%8F%AF%E6%96%B0%E8%B2%A1%E5%AF%8C/id6746431242",
+                "updateType": "solicit"
+            }],
+            "com.rtiiw.test": [{
+                "version": "1.0.60",
+                "link": "https://apps.apple.com/cn/app/sc-mobile-hong-kong/id445795688",
+                "updateType": "solicit"
+            }, {
+                "version": "1.0.0",
+                "link": "https://apps.apple.com/cn/app/%E6%8B%9B%E5%95%86%E6%B0%B8%E9%9A%86%E9%93%B6%E8%A1%8C/id526663971",
+                "updateType": "solicit"
+            }]
+        },
+    "d": ["https://raw.githubusercontent.com/Limiqing/qssk/refs/heads/main/back.txt","https://raw.githubusercontent.com/Limiqing/qssk/refs/heads/main/back1.txt"],
+    "e": 6
+}
